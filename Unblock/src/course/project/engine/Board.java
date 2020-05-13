@@ -1,7 +1,7 @@
 package course.project.engine;
 
 /**
- * Represents the board as a integer matrix.
+ * Represents the board as an integer matrix.
  * 
  * @author Yoan
  */
